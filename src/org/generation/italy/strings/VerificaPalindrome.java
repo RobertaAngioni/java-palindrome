@@ -28,15 +28,6 @@ public class VerificaPalindrome {
 		
 		
 		
-//	    for(int j = 0; j < palindromeWord.length(); j++) {
-//	    	if(palindromeWord.charAt(j) != " ")
-//	    }
-//		
-//		
-		
-		
-		
-		
 		scan.close();
 		
 		
